@@ -1,0 +1,29 @@
+{
+  "name": "@pq/di",
+  "version": "0.0.1",
+  "description": "Plastique Dependency Injection",
+  "main": "dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "test": "npmts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plastiquejs/di.git"
+  },
+  "keywords": [
+    "plastique",
+    "dependency",
+    "injection"
+  ],
+  "author": "Anatoly Ressin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plastiquejs/di/issues"
+  },
+  "homepage": "https://github.com/plastiquejs/di#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "npmts": "^5.3.0"
+  }
+}

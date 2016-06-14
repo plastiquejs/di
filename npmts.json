@@ -1,0 +1,14 @@
+{
+  "mode":"default",
+  "coveralls": true,
+  "tsOptions": {
+    "target": "ES6",
+    "outDir": "dist",
+    "module": "commonjs",
+    "declaration": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "experimentalDecorators": true    
+  }
+}
